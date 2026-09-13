@@ -1,0 +1,10 @@
+{
+  "pack_version": "1.0.0",
+  "mc_version": "26.2",
+  "installer": "fabric",
+  "installer_version": "0.19.5",
+  "repo": "TeaMineServer/ServerPack-26.2",
+  "zip_filename": "TeaMine-26.2-RYCHNOE.zip",
+  "pack_name": "TeaMine 26.2",
+  "profile_name": "TeaMine 26.2"
+}
